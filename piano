@@ -1,4 +1,4 @@
-if game:GetService("SoundService").RespectFilteringEnabled then return error("cringe") end 
+if game:GetService("SoundService").RespectFilteringEnabled then return error("bad") end 
 
 local Gui = game:GetObjects("rbxassetid://9663775341")[1]
 Gui.Parent = game.CoreGui
